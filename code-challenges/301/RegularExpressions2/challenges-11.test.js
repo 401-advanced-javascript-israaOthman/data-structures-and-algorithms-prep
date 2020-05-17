@@ -44,7 +44,8 @@ on several rules:
 
 Return either true or false.
 
-Note: if you ever need to validate an email using a regex in practice, the Internet has the actual regex you should use. It's many many lines long.
+Note: if you ever need to validate an email using a regex in practice, 
+the Internet has the actual regex you should use. It's many many lines long.
 ------------------------------------------------------------------------------------------------ */
 
 const validateEmail = (email) => {
